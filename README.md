@@ -306,34 +306,7 @@ Cloud Deployment
 ---
 
 
-# GitHub Activity
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=geestg&show_icons=true&hide_border=true&theme=transparent" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geestg&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-# Current Focus
-
-```text
-Understand
-    ↓
-Retrieve
-    ↓
-Reason
-    ↓
-Plan
-    ↓
-Use Tools
-    ↓
-Maintain Context
-    ↓
-Generate Evidence-Grounded Results
 ```
 
 <div align="center">
