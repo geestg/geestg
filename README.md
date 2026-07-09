@@ -307,12 +307,18 @@ Cloud Deployment
 
 
 
-```
+---
 
 <div align="center">
 
-### Building AI systems beyond simple conversations.
+### From research questions to intelligent systems.
 
-**Intelligent • Stateful • Evidence-Grounded • Autonomous**
+I build AI systems that **retrieve evidence, reason over context, use tools, maintain state, and turn complex problems into grounded results.**
+
+**Research → Architecture → Intelligence → Impact**
+
+<br>
+
+*Building systems that do more than generate answers — they understand the problem behind them.*
 
 </div>
