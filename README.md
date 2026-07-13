@@ -31,21 +31,6 @@ glen = {
         "LLM Orchestration",
         "Research Intelligence",
     ],
-    "research_interests": [
-        "Agent Memory Architectures",
-        "Hybrid Information Retrieval",
-        "Evidence-Grounded Generation",
-        "Research Gap Detection",
-        "Novelty Assessment",
-    ],
-    "engineering": [
-        "Python",
-        "FastAPI",
-        "React",
-        "Qdrant",
-        "PostgreSQL",
-        "Docker",
-    ],
 }
 ```
 
