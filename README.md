@@ -24,14 +24,12 @@ AI systems that connect research, machine learning, and software engineering.
 My current work focuses on:
 
 - Artificial Intelligence
-- Retrieval-Augmented Generation (RAG)
-- AI-assisted research systems
 - Document Intelligence
 - Semantic Search
 - Computer Vision
 - Deep Learning
 - Backend Engineering
-- AI and IoT systems
+- IoT 
 
 I am particularly interested in turning research ideas into working systems
 that can be tested, evaluated, and used in real-world scenarios.
