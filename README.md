@@ -1,104 +1,146 @@
+<div align="center">
+
 # Glen Rifael Situmorang
 
-AI Engineer & AI R&D Engineer based in Indonesia.
+### AI Research and Development
 
-I build AI systems and applications, with an interest in turning research ideas
-into practical software that can be tested and used.
+Building AI systems, intelligent applications, and practical solutions
+from research ideas to working software.
 
-My main interests are:
+<br>
 
-- Artificial Intelligence
-- Generative AI
-- AI Agents
-- Computer Vision
-- AI Infrastructure
-- IoT
+[LinkedIn](https://www.linkedin.com/in/glen-situmorang-1b0b8a301) ·
+[GitHub](https://github.com/geestg) ·
+[glenstg15@gmail.com](mailto:glenstg15@gmail.com)
 
-Currently studying Computer Engineering at Institut Teknologi Del and working
-on AI research projects involving academic research systems, AI agents,
-computer vision, and AI infrastructure.
+</div>
 
-## Projects
+---
+
+## About
+
+I'm an **AI Engineer and AI R&D Engineer** from Indonesia, currently studying
+Computer Engineering at **Institut Teknologi Del**.
+
+My work sits at the intersection of **AI research, software engineering,
+and real-world applications**.
+
+I'm interested in building systems that don't just demonstrate AI capabilities,
+but can actually be developed, tested, and used.
+
+### Areas of Interest
+
+`Artificial Intelligence` · `Generative AI` · `AI Agents` ·
+`Computer Vision` · `RAG` · `Document Intelligence` ·
+`AI Infrastructure` · `IoT`
+
+---
+
+## Selected Projects
 
 ### DELBot
+**Academic Research Intelligence System**
 
-An academic research intelligence system designed to help students and
-researchers work with academic literature, search documents, analyze research,
-and discover research gaps.
+An AI system designed to help students and researchers work with academic
+literature, explore documents, analyze research, and discover research gaps.
 
-Focus areas include document processing, semantic retrieval, citations,
-research analysis, and thesis idea generation.
+**Focus:** Document Intelligence · RAG · Semantic Search · Research Analysis
+
+---
 
 ### Toba AI
+**AI Tourism Intelligence Platform**
 
-An AI tourism platform focused on Lake Toba, providing destination
-recommendations, travel assistance, route planning, and tourism information
-through an AI-based interface.
+An AI-powered tourism platform focused on **Lake Toba**, providing destination
+recommendations, travel assistance, route planning, and tourism information.
+
+**Focus:** AI Agents · Recommendation · Multi-Agent Systems · Geolocation
+
+---
 
 ### AI Fish Monitoring & Automated Feeding
+**Computer Vision × IoT**
 
-A Computer Vision and IoT system for monitoring fish and automating feeding.
+An intelligent fish monitoring and automated feeding system combining
+computer vision with IoT for automated feeding decisions.
 
-Built with YOLOv8, Python, Flask, Android, React, MQTT, ESP32, and servo control.
+**Built with:** YOLOv8 · Python · Flask · Android · React · MQTT · ESP32
+
+---
 
 ### AI Agent System
+**Multi-Step Task Automation**
 
-A Python-based AI agent capable of understanding commands and performing
-multi-step tasks such as file operations, web retrieval, system monitoring,
-and other basic automation tasks.
+A Python-based AI agent capable of understanding commands and executing
+multi-step tasks such as file operations, web retrieval, and system monitoring.
+
+**Focus:** AI Agents · Planning · Execution · Automation
+
+---
 
 ### Computer Vision Projects
 
-Other projects include:
+A collection of computer vision experiments and applications, including:
 
-- Real-time face detection with YOLOv5 and OpenCV
+- Real-time face detection with YOLOv5
 - Face recognition attendance system
-- Hand gesture and facial expression recognition with MediaPipe
-- Real-time image processing applications
+- Hand gesture recognition with MediaPipe
+- Facial expression recognition
+- Real-time image processing
 
-## Technologies
+---
 
-**AI / ML**
+## Tech Stack
 
-Python · PyTorch · YOLO · MediaPipe · OpenCV · RAG · Generative AI · LLM · AI Agents · Semantic Search 
+### AI & Machine Learning
 
-**AI Systems**
+`Python` `PyTorch` `YOLO` `OpenCV` `MediaPipe`
+`LLM` `Generative AI` `RAG` `AI Agents` `Semantic Search`
 
-LLM · AI Agents · Semantic Search 
+### Backend & Data
 
-**Backend**
+`FastAPI` `Flask` `REST API` `PostgreSQL` `Qdrant`
 
-FastAPI · Flask · REST API · PostgreSQL
+### Infrastructure
 
-**Infrastructure**
+`Docker` `Linux` `AI Infrastructure` `MQTT`
 
-Docker · Linux · Qdrant · MQTT
+### Frontend & IoT
 
-**Frontend**
+`React` `Vite` `Android` `ESP32` `Sensors` `Servo`
 
-React · Vite · Android
-
-**Hardware / IoT**
-
-ESP32 · MQTT · Sensors · Servo
+---
 
 ## Experience
 
-**IT Del AI Research Center**
+### IT Del AI Research Center
+**AI Research & Development**
 
-AI Research & Development
+Working on AI research and development projects involving
+**AI agents, academic AI systems, and AI infrastructure**.
 
-Working on AI research and development projects involving 
-AI agents and AI infrastructure.
+### Institut Teknologi Del
+**Diploma in Computer Engineering**
 
-**Institut Teknologi Del**
+Currently pursuing a Diploma in Computer Engineering.
 
-Computer Engineering
+---
 
-Diploma in Computer Engineering.
+## What I'm Building
 
-## Contact
+Currently exploring and building systems around:
 
-LinkedIn: https://www.linkedin.com/in/glen-situmorang-1b0b8a301
+- AI-powered research tools
+- Generative AI applications
+- AI agent systems
+- Retrieval and document intelligence
+- Self-hosted AI infrastructure
+- Computer vision applications
 
-Email: glenstg15@gmail.com
+---
+
+<div align="center">
+
+### Build · Research · Experiment · Learn
+
+</div>
