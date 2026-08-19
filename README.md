@@ -2,16 +2,23 @@
 
 # Glen Rifael Situmorang
 
-### AI Research and Development
+### AI Research and Development 
 
-Building AI systems, intelligent applications, and practical solutions
-from research ideas to working software.
+Building AI systems that turn research ideas into practical software.
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/glen-situmorang-1b0b8a301) ·
-[GitHub](https://github.com/geestg) ·
-[glenstg15@gmail.com](mailto:glenstg15@gmail.com)
+<a href="https://www.linkedin.com/in/glen-situmorang-1b0b8a301">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/geestg">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:glenstg15@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -19,128 +26,86 @@ from research ideas to working software.
 
 ## About
 
-I'm an **AI Engineer and AI R&D Engineer** from Indonesia, currently studying
-Computer Engineering at **Institut Teknologi Del**.
+I'm an **AI R&D Engineer ** interested in building intelligent
+systems that connect **AI research, software engineering, and real-world
+applications**.
 
-My work sits at the intersection of **AI research, software engineering,
-and real-world applications**.
+Currently studying **Computer Engineering at Institut Teknologi Del** and
+working on AI research projects involving AI agents, academic research
+systems, computer vision, and AI infrastructure.
 
-I'm interested in building systems that don't just demonstrate AI capabilities,
-but can actually be developed, tested, and used.
 
-### Areas of Interest
+Featured Projects
+DELBot
 
-`Artificial Intelligence` · `Generative AI` · `AI Agents` ·
-`Computer Vision` · `RAG` · `Document Intelligence` ·
-`AI Infrastructure` · `IoT`
-
----
-
-## Selected Projects
-
-### DELBot
-**Academic Research Intelligence System**
+Academic Research Intelligence System
 
 An AI system designed to help students and researchers work with academic
-literature, explore documents, analyze research, and discover research gaps.
+literature, search documents, analyze research, and discover research gaps.
 
-**Focus:** Document Intelligence · RAG · Semantic Search · Research Analysis
+Focus
 
----
+Document Intelligence · RAG · Semantic Search · Research Analysis
 
-### Toba AI
-**AI Tourism Intelligence Platform**
+Toba AI
 
-An AI-powered tourism platform focused on **Lake Toba**, providing destination
+AI Tourism Intelligence Platform
+
+An AI-powered tourism platform focused on Lake Toba, providing destination
 recommendations, travel assistance, route planning, and tourism information.
 
-**Focus:** AI Agents · Recommendation · Multi-Agent Systems · Geolocation
+Focus
 
----
+Generative AI · AI Agents · Recommendation · Geolocation
 
-### AI Fish Monitoring & Automated Feeding
-**Computer Vision × IoT**
+AI Fish Monitoring & Automated Feeding
+
+Computer Vision + IoT
 
 An intelligent fish monitoring and automated feeding system combining
-computer vision with IoT for automated feeding decisions.
+computer vision with embedded systems.
 
-**Built with:** YOLOv8 · Python · Flask · Android · React · MQTT · ESP32
+Stack
 
----
+YOLOv8 · Python · Flask · React · Android · MQTT · ESP32
 
-### AI Agent System
-**Multi-Step Task Automation**
+AI Agent System
+
+Multi-Step Task Automation
 
 A Python-based AI agent capable of understanding commands and executing
-multi-step tasks such as file operations, web retrieval, and system monitoring.
+multi-step tasks such as file operations, web retrieval, and system
+monitoring.
 
-**Focus:** AI Agents · Planning · Execution · Automation
+Focus
 
----
+LLM · AI Agents · Planning · Automation
 
-### Computer Vision Projects
+Computer Vision
 
-A collection of computer vision experiments and applications, including:
+A collection of computer vision projects exploring real-time AI interaction
+and recognition.
 
-- Real-time face detection with YOLOv5
-- Face recognition attendance system
-- Hand gesture recognition with MediaPipe
-- Facial expression recognition
-- Real-time image processing
+YOLOv5 real-time face detection
+Face recognition attendance system
+Hand gesture recognition
+Facial expression recognition
+Real-time image processing
+Tech Stack
+AI & Machine Learning
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" /> </p>
+Generative AI
+<p> <img src="https://img.shields.io/badge/LLM-412991?style=flat-square" /> <img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" /> <img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square" /> <img src="https://img.shields.io/badge/Semantic_Search-111111?style=flat-square" /> <img src="https://img.shields.io/badge/Document_Intelligence-111111?style=flat-square" /> </p>
+Infrastructure
+<p> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square" /> </p>
+Application & IoT
+<p> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" /> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" /> </p>
+Experience
+IT Del AI Research Center
 
----
+AI Research & Development
 
-## Tech Stack
+Connect
+<div align="center"> <a href="https://www.linkedin.com/in/glen-situmorang-1b0b8a301"> LinkedIn </a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="https://github.com/geestg"> GitHub </a> &nbsp;&nbsp;•&nbsp;&nbsp; <a href="mailto:glenstg15@gmail.com"> Email </a>
 
-### AI & Machine Learning
 
-`Python` `PyTorch` `YOLO` `OpenCV` `MediaPipe`
-`LLM` `Generative AI` `RAG` `AI Agents` `Semantic Search`
-
-### Backend & Data
-
-`FastAPI` `Flask` `REST API` `PostgreSQL` `Qdrant`
-
-### Infrastructure
-
-`Docker` `Linux` `AI Infrastructure` `MQTT`
-
-### Frontend & IoT
-
-`React` `Vite` `Android` `ESP32` `Sensors` `Servo`
-
----
-
-## Experience
-
-### IT Del AI Research Center
-**AI Research & Development**
-
-Working on AI research and development projects involving
-**AI agents, academic AI systems, and AI infrastructure**.
-
-### Institut Teknologi Del
-**Diploma in Computer Engineering**
-
-Currently pursuing a Diploma in Computer Engineering.
-
----
-
-## What I'm Building
-
-Currently exploring and building systems around:
-
-- AI-powered research tools
-- Generative AI applications
-- AI agent systems
-- Retrieval and document intelligence
-- Self-hosted AI infrastructure
-- Computer vision applications
-
----
-
-<div align="center">
-
-### Build · Research · Experiment · Learn
-
-</div>
