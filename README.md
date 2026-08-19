@@ -4,8 +4,6 @@
 
 ### AI Research & Development Engineer
 
-**Artificial Intelligence • RAG • AI Systems • Computer Vision • Backend Engineering**
-
 I design and build AI-powered systems that combine machine learning,
 retrieval, document understanding, and software engineering to solve practical problems.
 
