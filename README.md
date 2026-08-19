@@ -1,46 +1,104 @@
-<div align="center">
+# Glen Rifael Situmorang
 
-# Hi, I'm Glen Situmorang 
+AI Engineer & AI R&D Engineer based in Indonesia.
 
-### AI Research & Development Engineer
+I build AI systems and applications, with an interest in turning research ideas
+into practical software that can be tested and used.
 
-I design and build AI-powered systems that combine machine learning,
-retrieval, document understanding, and software engineering to solve practical problems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Glen_Situmorang-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glen-situmorang-1b0b8a301)
-[![GitHub](https://img.shields.io/badge/GitHub-geestg-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/geestg)
-
-</div>
-
----
-
-# About Me
-
-I am an **AI Research & Development Engineer** interested in building practical
-AI systems that connect research, machine learning, and software engineering.
-
-My current work focuses on:
+My main interests are:
 
 - Artificial Intelligence
-- Document Intelligence
-- Semantic Search
+- Generative AI
+- AI Agents
 - Computer Vision
-- Deep Learning
-- Backend Engineering
-- IoT 
+- AI Infrastructure
+- IoT
 
-I am particularly interested in turning research ideas into working systems
-that can be tested, evaluated, and used in real-world scenarios.
+Currently studying Computer Engineering at Institut Teknologi Del and working
+on AI research projects involving academic research systems, AI agents,
+computer vision, and AI infrastructure.
 
-```python
-glen = {
-    "role": "AI Research & Development Engineer",
-    "focus": [
-        "Artificial Intelligence",
-        "RAG",
-        "Document Intelligence",
-        "Semantic Search",
-        "Computer Vision",
-        "Backend Engineering",
-    ],
-}
+## Projects
+
+### DELBot
+
+An academic research intelligence system designed to help students and
+researchers work with academic literature, search documents, analyze research,
+and discover research gaps.
+
+Focus areas include document processing, semantic retrieval, citations,
+research analysis, and thesis idea generation.
+
+### Toba AI
+
+An AI tourism platform focused on Lake Toba, providing destination
+recommendations, travel assistance, route planning, and tourism information
+through an AI-based interface.
+
+### AI Fish Monitoring & Automated Feeding
+
+A Computer Vision and IoT system for monitoring fish and automating feeding.
+
+Built with YOLOv8, Python, Flask, Android, React, MQTT, ESP32, and servo control.
+
+### AI Agent System
+
+A Python-based AI agent capable of understanding commands and performing
+multi-step tasks such as file operations, web retrieval, system monitoring,
+and other basic automation tasks.
+
+### Computer Vision Projects
+
+Other projects include:
+
+- Real-time face detection with YOLOv5 and OpenCV
+- Face recognition attendance system
+- Hand gesture and facial expression recognition with MediaPipe
+- Real-time image processing applications
+
+## Technologies
+
+**AI / ML**
+
+Python · PyTorch · YOLO · MediaPipe · OpenCV · RAG · Generative AI · LLM · AI Agents · Semantic Search 
+
+**AI Systems**
+
+LLM · AI Agents · Semantic Search 
+
+**Backend**
+
+FastAPI · Flask · REST API · PostgreSQL
+
+**Infrastructure**
+
+Docker · Linux · Qdrant · MQTT
+
+**Frontend**
+
+React · Vite · Android
+
+**Hardware / IoT**
+
+ESP32 · MQTT · Sensors · Servo
+
+## Experience
+
+**IT Del AI Research Center**
+
+AI Research & Development
+
+Working on AI research and development projects involving 
+AI agents and AI infrastructure.
+
+**Institut Teknologi Del**
+
+Computer Engineering
+
+Diploma in Computer Engineering.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/glen-situmorang-1b0b8a301
+
+Email: glenstg15@gmail.com
