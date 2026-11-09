@@ -1,261 +1,125 @@
-<div align="center">
+<h1 align="center">Glen Rifael Situmorang</h1>
 
-# Glen Rifael Situmorang
+<p align="center"><strong>AI Research &amp; Development Engineer</strong></p>
 
-### AI Research & Development Engineer
+<p align="center">
+  I build AI applications that answer from documents, help plan trips, and connect computer vision to physical devices.
+</p>
 
-Building AI systems that turn research ideas into practical software.
+<p align="center">
+  <a href="https://www.linkedin.com/in/glen-situmorang-1b0b8a301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:glenstg15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
+</p>
 
-<br>
-
-<a href="https://www.linkedin.com/in/glen-situmorang-1b0b8a301">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://github.com/geestg">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:glenstg15@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-</div>
+<p align="center">
+  <a href="#featured-projects">Projects</a> ·
+  <a href="#research">Research</a> ·
+  <a href="#technical-toolkit">Technical toolkit</a> ·
+  <a href="#experience--education">Experience</a>
+</p>
 
 ---
 
 ## About
 
-I'm an **AI R&D Engineer** interested in building intelligent systems that
-connect **AI research, software engineering, and real-world applications**.
-
-Currently studying **Computer Engineering at Institut Teknologi Del** and
-working on AI research projects involving **Generative AI, AI Agents,
-academic research systems, computer vision, and AI infrastructure**.
-
-My interest is not only in building models, but in turning them into systems
-that can actually be used.
-
----
+I'm a Computer Technology diploma graduate from **Institut Teknologi Del**. During my AI R&D internship at the **IT Del AI Research Center**, I developed DELBot, an academic research assistant that searches institutional records and cites the evidence behind its answers. My work spans local LLM deployment, retrieval and evaluation, Python backends, and computer vision. I currently lead development of **BTB Smart School** and conduct collaborative research on **DELBot** and **Toba AI**.
 
 ## Featured Projects
 
-### DELBot
+### DELBot · Academic research assistant
 
-**Academic Research Intelligence System**
+**R&D internship project and ongoing research**
 
-An AI system designed to help students and researchers work with academic
-literature, search documents, analyze research, and discover research gaps.
+Built a retrieval-augmented generation (RAG) prototype for **1,298 academic records**, including 136 full-text documents and 1,162 metadata or abstract records. The system combines semantic search, catalog queries, source citations, and conversation history. When a record only contains an abstract or metadata, the assistant limits its answer to that evidence.
 
-**Focus**
+Integrated a locally hosted **Qwen3-30B-A3B** model with a FastAPI backend and a React interface. Used Ragas and targeted conversation tests to assess retrieval and answer quality.
 
-`Document Intelligence` · `RAG` · `Semantic Search` · `Research Analysis`
+`Python` · `FastAPI` · `Qdrant` · `React` · `TypeScript` · `Ragas`
 
----
+[Repository](https://github.com/geestg/delbot)
 
-### Toba AI
+### BTB Smart School · Integrated learning and school services
 
-**AI Tourism Intelligence Platform**
+**Project Team Lead · In development**
 
-An AI-powered tourism platform focused on **Lake Toba**, providing destination
-recommendations, travel assistance, route planning, and tourism information.
+Leading development of a school portal with role-based access for students, teachers, staff, and parents or guardians. The platform brings together learning materials, assignments, library services, curriculum, exams, counseling, and a guardian portal. A source-grounded learning assistant is planned after the core services are in place.
 
-**Focus**
+[Repository](https://github.com/geestg/btb-smart-sch)
 
-`Generative AI` · `AI Agents` · `Recommendation` · `Geolocation`
+### Toba AI · Tourism planning around Lake Toba
 
----
+**Collaborative prototype and ongoing research**
 
-### AI Fish Monitoring & Automated Feeding
+Co-developed a tourism assistant that uses specialized agents to recommend destinations, accommodation, and places to eat. The prototype combines a conversational interface with maps. Our research explores how to evaluate whether suggested itineraries are feasible, including journeys that combine roads and lake crossings.
 
-**Computer Vision + IoT**
+`Python` · `FastAPI` · `React` · `Multi-agent systems` · `Geospatial data`
 
-An intelligent fish monitoring and automated feeding system combining
-computer vision with embedded systems.
+[Repository](https://github.com/geestg/toba-ai)
 
-The system uses computer vision to monitor fish and integrates the results
-with an automated feeding system.
+### Goldfish AI · Visual monitoring and automated feeding
 
-**Technology**
+**Capstone prototype**
 
-`YOLOv8` · `Python` · `Flask` · `React` · `Android` · `MQTT` · `ESP32`
+Built a computer vision and IoT prototype that counts goldfish and estimates their length from head and tail keypoints. An Android app captures images, a web dashboard shows the results, and an ESP32 controls the feeder through MQTT. A selected checkpoint recorded validation mAP@50 of **0.977 for bounding boxes** and **0.982 for pose keypoints**.
 
----
+`YOLOv8-Pose` · `Flask` · `React` · `Kotlin / CameraX` · `MQTT` · `ESP32`
 
-### AI Agent System
+[Repository](https://github.com/geestg/goldfish-ai)
 
-**Multi-Step Task Automation**
+### AI Office · Personal workflow automation
 
-A Python-based AI agent capable of understanding natural language commands
-and executing multi-step tasks.
+**Local AI assistant prototype**
 
-The system explores basic planning, execution, memory, file operations,
-web retrieval, and system monitoring.
+Built a modular workspace where a coordinator delegates tasks to specialized assistants. The system uses a local language model and a planner–executor workflow. I prototyped a web dashboard for WhatsApp workflows, Outlook review, and access to local files. The modular design supports adding services such as social media checks and calendar workflows.
 
-**Focus**
+`Local LLMs` · `Ollama` · `Node.js` · `Task planning` · `Tool integration`
 
-`LLM` · `AI Agents` · `Planning` · `Automation`
+[Related work: AI Agent System](https://github.com/geestg/ai-agent)
 
----
+<details>
+<summary><strong>Other builds</strong></summary>
 
-### Computer Vision Projects
+- **Face recognition attendance** using DeepFace, automated attendance logs, and Excel reports.
+- **Gesture and facial expression control** using MediaPipe and OpenCV.
+- **Real-time face detection** using YOLOv5.
+- **eArsip**, a document management application with search and role-based access, built with Laravel and MySQL.
 
-A collection of projects exploring real-time computer vision and
-human-computer interaction.
+</details>
 
-- YOLOv5 real-time face detection
-- Face recognition attendance system
-- Hand gesture recognition
-- Facial expression recognition
-- Real-time image processing
+## Research
 
----
+I am the **first author** on two ongoing collaborative studies.
 
-## Areas of Interest
+| Study | Research question |
+| --- | --- |
+| **DELBot** | How reliably does a conversational academic repository ground its answers in the evidence available for each record? |
+| **Toba AI** | How can we evaluate the feasibility of agent-generated travel plans and measure their potential effects on destinations? |
 
-<table>
-<tr>
-<td width="50%">
+I also study how errors can propagate from image capture and model predictions to feeding decisions in an aquaculture prototype.
 
-### Artificial Intelligence
+## Technical Toolkit
 
-- Generative AI
-- Large Language Models
-- AI Agents
-- RAG
-- Semantic Search
-- Document Intelligence
+| Area | Tools and methods |
+| --- | --- |
+| **LLMs and retrieval** | Local inference, Ollama, RAG, semantic search, Qdrant, ChromaDB, Ragas |
+| **Backend and data** | Python, FastAPI, Flask, Node.js, PHP/Laravel, REST APIs, PostgreSQL, MySQL, SQLite |
+| **Frontend and mobile** | React, TypeScript, Vite, Android, Kotlin, CameraX |
+| **Computer vision and IoT** | YOLO, PyTorch, OpenCV, MediaPipe, DeepFace, MQTT, ESP32 |
+| **Infrastructure** | Git, Linux, Docker, HPC environments |
 
-</td>
-<td width="50%">
+## Experience & Education
 
-### AI Engineering
+| Role | Organization | Period |
+| --- | --- | --- |
+| **Project Team Lead** | BTB Smart School | 2026–Present |
+| **AI Research & Development Intern** | IT Del AI Research Center | Feb–Aug 2026 |
+| **Diploma III in Computer Technology** | Institut Teknologi Del | Graduated Aug 2026 |
+| **Vice Chairman** | HIMATEK, Institut Teknologi Del | Sep 2024–Aug 2025 |
 
-- AI Infrastructure
-- Backend Systems
-- API Development
-- Vector Databases
-- Model Integration
-- System Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### Computer Vision
-
-- Object Detection
-- Face Detection
-- Face Recognition
-- Image Processing
-- Human-Computer Interaction
-
-</td>
-<td width="50%">
-
-### Intelligent Systems
-
-- IoT
-- Embedded Systems
-- Real-Time Systems
-- Computer Vision + IoT
-- Automation
-
-</td>
-</tr>
-</table>
+I served on the organizing committees for **AI Hackathon IT Del** and **AI Bootcamp IT Del × Epsindo**, and volunteered for the **Bebras Challenge**.
 
 ---
 
-## Technologies
-
-### AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" />
+<p align="center">
+  Toba, North Sumatra, Indonesia · Open to full-time AI development and research roles
 </p>
-
-### Generative AI
-
-<p>
-<img src="https://img.shields.io/badge/LLM-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-6C47FF?style=flat-square" />
-<img src="https://img.shields.io/badge/AI_Agents-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Semantic_Search-111111?style=flat-square" />
-<img src="https://img.shields.io/badge/Document_Intelligence-111111?style=flat-square" />
-</p>
-
-### Backend & Data
-
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-FF4F64?style=flat-square" />
-</p>
-
-### Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=flat-square" />
-</p>
-
-### Application & IoT
-
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" />
-</p>
-
----
-
-## Experience
-
-### IT Del AI Research Center
-
-**AI Research & Development**
-
-Working on AI research and engineering projects involving:
-
-- Generative AI
-- AI Agents
-- Academic Research Systems
-- AI Infrastructure
-- Computer Vision
-
----
-
-### Institut Teknologi Del
-
-**Computer Engineering**
-
-Currently pursuing a Diploma in Computer Engineering with a focus on
-software development, artificial intelligence, and intelligent systems.
-
----
-
-## Current Focus
-
-```text
-Generative AI
-      │
-      ├── LLM Applications
-      ├── AI Agents
-      ├── RAG & Retrieval
-      └── Document Intelligence
-              │
-              ▼
-        AI Engineering
-              │
-              ▼
-      Practical AI Systems
